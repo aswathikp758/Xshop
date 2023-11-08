@@ -1,0 +1,145 @@
+.body {
+    margin:0px;
+  }
+  .colour-block {
+    background:pink;
+    /* width:60%; */
+    padding:2%;
+    color:#fff;
+  }
+  
+  .h1 {
+    padding:5%;
+    text-align:center;
+    font-size:80px;
+    font-family:'wire one', serif;
+    font-weight:normal;
+  }
+  .p {
+    font-size:20px;
+    font-family:'Raleway', serif;
+  }
+  
+  
+  .skew-c{
+    width:100%;
+    height:100px;
+    position:absolute;
+    left:0px;
+    background: linear-gradient(to left bottom, #fff 49%,#febdac 50%);
+  }
+  
+
+ 
+  .skew-card-size{
+    margin-top: -100px;
+  }
+ 
+  .icon-bg{
+    background: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 8px;
+    color: rgb(71, 71, 71);
+    font-size: 5px;
+  }
+  /* .motion-size{
+    width: 100%;
+    background-color: #d4d3d3;
+  } */
+  .port-font{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.port-bg{
+     background:pink;
+     padding-bottom:10%;
+     padding-top: 10%;
+   
+}
+.bg{
+  background-color:#febdac;
+  width: cover;
+  height: 500px;
+}
+.navbar-bg{
+  /* background: rgb(254,189,172); */
+  background: rgba(189,22,118,1);
+/* background: linear-gradient(90deg, rgba(254,189,172,1) 34%, rgba(189,22,118,1) 80%); */
+}
+.nav-link-color{
+  color: darkcyan;
+}
+.slide-text{
+  margin-top: 10%;
+
+}
+.slide-head{
+  font-size: 50px;
+  font-weight: bolder;
+  color: white;
+}
+.text-pink{
+  color: #bd1676;
+}
+.product-card{
+  border: 1px solid transparent;
+  margin:1px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* box-shadow: 5px 10px 18px #c9c8c8; */
+  
+}
+.col-pad{
+  padding:0;
+}
+.fit-img{
+   object-fit: contain;
+}
+.text-style{
+  background-color: black;
+  text-align: center;
+  color: white;
+  }
+  .font-size{
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+  .cbg{
+    border:1px solid rgb(252, 228, 18);
+   
+    background: rgb(249,5,165);
+    background: linear-gradient(90deg, rgba(249,5,165,1) 0%, rgba(252,246,8,1) 100%);
+
+    border-radius: 50%;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+  }
+  .bg-color{
+    background-color: lightgray;
+  }
+  .img {
+  position: relative;
+  left: 0px;
+  top: -1px;
+  z-index: auto;
+}
+.card-size{
+  height: 50px;
+  width: 70px;
+}
+.person {
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 300px;  
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
